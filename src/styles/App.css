@@ -1,0 +1,149 @@
+:root {
+  --primary-white: #fff;
+  --primary-purple: #BA55D3,
+}
+
+
+.title-image {
+  width: 100%;
+  padding-bottom: 30px; 
+  }
+
+.getstartedbtn {
+  margin: 5% 3% 5% 0;
+  width:15rem;
+  height: 3.75rem;
+  background:#BA55D3;
+  border-radius: 4px;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
+}
+
+.big-heading {
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-size: 3.125em;
+  line-height: 3rem;
+  padding-top: 35px;
+  color:#0B132A ;
+  text-shadow: 0px 2px 4px #BA55D3;
+    padding-top: 20px;
+  }
+  .small-heading{
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.875;
+  }
+  .counter{
+  width: 71.25rem;
+  height: 5rem;
+  border-radius: 10px;
+  justify-content: space-between;
+  display:flex;
+  margin-bottom: 4rem;
+  } 
+
+  .brand-img {
+    width: 100%;
+    max-width: 3.5rem
+}
+.nav-link {
+    color: inherit;
+    
+    font-weight: 400
+  }
+  .nav-link.active {
+    color: inherit;
+    border-bottom: 2px solid #BA55D3,
+  }
+  .nav-item {
+    margin-left: 4rem;
+ 
+  }
+  
+
+ .signbtnUP{
+  border: 1px solid #BA55D3;
+  background-color:white;
+  color:#BA55D3;
+  border-radius: 4px;
+  font-family: 'Rubik', sans-serif;
+  border: 4px solid #BA55D3;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.signbtnIN{
+  background:#BA55D3;
+  border-radius: 4px;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+#pricing { 
+  padding: 100px;
+} 
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.white-section {
+  background-color: #fff;
+}
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.get-started{
+background-color: red;
+min-height:100vh;
+}
+.inner{
+  background-color: blue;
+  flex:1;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+
+} 
+ 
+.partner{
+  background-color: aqua;
+  width:100%
+}
+
+.logo-first{
+  display:flex;
+  justify-content: space-between;
+  margin-bottom:1rem;
+}
+
+.wrapper{
+
+  width:100%;
+  font-family: 'Rubik';
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 30px;
+}
+.feature-img{
+width:4rem;
+} 
+.radio{
+  display:block;
+
+}
+
+
+
